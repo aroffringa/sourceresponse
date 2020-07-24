@@ -1,0 +1,131 @@
+skymodel fileformat 1.1
+source {
+  name "3C147"
+  cluster "3C147"
+  component {
+    type point
+    position 05h42m36.1s 49d51m07s
+    sed {
+      frequency 150 MHz
+      fluxdensity Jy 66.738 0 0 0
+      spectral-index { -0.022, -1.012, 0.549 }
+    }
+  }
+}
+source {
+  name "3C196"
+  cluster "3C196"
+  component {
+    type point
+    position 08h13m36.0s 48d13m03s
+    sed {
+      frequency 150 MHz
+      fluxdensity Jy 83.084 0 0 0
+      spectral-index { -0.699, -0.11 }
+    }
+  }
+}
+source {
+  name "3C286"
+  cluster "3C286"
+  component {
+    type point
+    position 13h31m08.3s 30d30m33s
+    sed {
+      frequency 150 MHz
+      fluxdensity Jy 27.477 0 0 0
+      spectral-index { -0.158, 0.032, -0.18 }
+    }
+  }
+}
+source {
+  name "3C287"
+  cluster "3C287"
+  component {
+    type point
+    position 13h30m37.7s 25d09m11s
+    sed {
+      frequency 150 MHz
+      fluxdensity Jy 16.367 0 0 0
+      spectral-index { -0.364 }
+    }
+  }
+}
+source {
+  name "3C380"
+  cluster "3C380"
+  component {
+    type point
+    position 18h29m31.8s 48d44m46s
+    sed {
+      frequency 150 MHz
+      fluxdensity Jy 77.352 0 0 0
+      spectral-index { -0.767 }
+    }
+  }
+}
+source {
+  name "3C48"
+  cluster "3C48"
+  component {
+    type point
+    position 01h37m41.3s 33d09m35s
+    sed {
+      frequency 150 MHz
+      fluxdensity Jy 64.768 0 0 0
+      spectral-index { -0.387, -0.42, 0.181 }
+    }
+  }
+}
+source {
+  name "CasA"
+  cluster "CasA"
+  component {
+    type point
+    position 23h23m27.94s 58d48m42.4s
+    sed {
+      frequency 150 MHz
+      fluxdensity Jy 13130 0 0 0
+      spectral-index { -0.7 }
+    }
+  }
+}
+source {
+  name "CygA"
+  cluster "CygA"
+  component {
+    type point
+    position 19h59m28.357s 40d44m02.096s
+    sed {
+      frequency 150 MHz
+      fluxdensity Jy 10709 0 0 0
+      spectral-index { -0.7 }
+    }
+  }
+}
+source {
+  name "TauA"
+  cluster "TauA"
+  component {
+    type point
+    position 05h34m31.971s 22d00m52.06s
+    sed {
+      frequency 80 MHz
+      fluxdensity Jy 1648 0 0 0
+      spectral-index { -0.7 }
+    }
+  }
+}
+source {
+  name "VirA"
+  cluster "VirA"
+  component {
+    type point
+    position 12h30m49.423s 12d23m28.043s
+    sed {
+      frequency 80 MHz
+      fluxdensity Jy 1519 0 0 0
+      spectral-index { -0.7 }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+Run like:
+
+sourceresponse <ms> <model>
+
+There's a simple model in the root of the project called
+bright-sources.txt. Note that the model needs to be in
+"ao" format, which is not the same as the bbs/dp3 format.
+
+The output will be placed in the current working directory.
+Since it will consist of several files, you might want
+to create an empty directory and run from there.
